@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **.NET Framework, T-SQL, Python**
 
-- 📄 Know about my experiences [Currently , I'm working at EMWorks since August 2020](Currently , I'm working at EMWorks since August 2020)
+- 📄 Know about my experiences [Currently , I'm working at EMWorks since August 2020]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
