@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdechafi Neji</h1>
-<h3 align="center">Dotnet Developer from Tunisia</h3>
+<h3 align="center">Software Developer from Tunisia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdou31" alt="abdou31" /></a> </p>
 
